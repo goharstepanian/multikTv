@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    background-color: rgb(177, 177, 235);
+    padding: 20px;
+}
+.title{
+    color: orangered;
+    font-size: 30px;
+    font-weight: 900;
+}
+.nav{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3px;
+    justify-content: space-between;
+}

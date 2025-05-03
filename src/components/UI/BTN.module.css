@@ -1,0 +1,12 @@
+.btn{
+    border: none;
+    height: 30px;
+    border-radius: 5px;
+    border: 2px solid orangered;
+    background: transparent;
+    color: orangered;
+    font-size: 16px;
+    padding: 3px;
+    font-weight: 600;
+    
+}
